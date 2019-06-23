@@ -31,10 +31,13 @@ Ziyang Jiang (zij004), Haotian Sun (htsun), Xinyu Wang (xwang7), Yumeng Yue (yue
 
 ### Player: <br/>
 
->A.	In the game player, shapes shrink to the size of 200*200 automatically to fit into the possession area after entering it, and will recover to their original sizes immediately after going back to a page. 
->B.	Support displaying text shapes of different font types (bold, italic)
->C.	Save the current state of a game in the game player to the database and let the user to resume playing it later
->D.	Allow the user to choose a background image from preloaded images including logos of all 30 NBA teams
+>A.	In the game player, shapes shrink to the size of 200*200 automatically to fit into the possession area after entering it, and will recover to their original sizes immediately after going back to a page. <br/>
+
+>B.	Support displaying text shapes of different font types (bold, italic). <br/>
+
+>C.	Save the current state of a game in the game player to the database and let the user to resume playing it later. <br/>
+
+>D.	Allow the user to choose a background image from preloaded images including logos of all 30 NBA teams. <br/>
 
 ## Notes: <br/>
 
